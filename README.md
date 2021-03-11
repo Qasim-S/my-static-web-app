@@ -52,7 +52,7 @@ The apps written in the following JavaScript frameworks/libraries:
 
 ## Resources
 
-### Azure Static Web Apps
+### Qasim Azure Static Web Apps
 
 - Learn how to [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?wt.mc_id=mslearn_staticwebapp-github-jopapa)
 - [API support in Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/apis?wt.mc_id=mslearn_staticwebapp-github-jopapa)
